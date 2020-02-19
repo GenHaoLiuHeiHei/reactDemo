@@ -4,7 +4,7 @@ export default class Footer extends React.Component {
     render () {
         return (
             <div className="text-center">
-                <p>你是傻屌！</p>
+                <p>1111111111111111111111</p>
             </div>
         )
     }

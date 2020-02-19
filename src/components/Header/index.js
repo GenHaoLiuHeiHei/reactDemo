@@ -8,7 +8,7 @@ class Header extends React.Component {
     state = {};
     componentWillMount() {
         this.setState({
-            userName: '刘根豪'
+            userName: 'BlackHandSome'
         })
     };
     signOut = () => {
